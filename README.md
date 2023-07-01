@@ -11,9 +11,9 @@ Tech Stacks used for the project are :
 * Chrome WebDriver (latest version)
 
 # Run Locally
-* Clone the repository: git clone https://github.com/abhishek-suman450/Letcode-Search-Engine.git
-* Change to the project directory: cd Search-Engine
-* Install dependencies: pip install flask flask-wtf gunicorn
+* Clone the repository: $ git clone https://github.com/abhishek-suman450/Letcode-Search-Engine.git
+* Change to the project: $ directory: cd Search-Engine
+* Install dependencies: $ pip install flask flask-wtf gunicorn
 
 # Deployment Link
 Project deployed on the link: https://leetcode-search-engine-hmkd.onrender.com
